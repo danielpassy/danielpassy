@@ -11,17 +11,16 @@
 # Descubra meus projetos
 
 ## - Translang Deck
-Hebraico, sendo uma língua de poucos falantes, não possui muitos recursos para estuda-la. <br>
-Translang busca resolver esse problema automatizando a criação de flash cards.<br>
+Automatiza a criação de ferramentos de estudo, flash cards, de Hebraico <br>
 Experimente no Link https://www.translang.live
 
 Dívido em 3 partes:<br>
--  Módulo que realiza o processo de automação<br>
+-  **Módulo que realiza o processo de automação**<br>
 https://github.com/danielpassy/Anki-CardOTron<br>
-- Back End <br>
+- **Back End** <br>
 https://github.com/danielpassy/Translang-Deck<br>
 Construído em Django e hosteado na AWS EC2<br>
-- Front end <br>
+- **Front end** <br>
 https://github.com/danielpassy/Translang-deck-FrontEnd<br>
 Construído em React<br>
 
