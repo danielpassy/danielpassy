@@ -16,40 +16,40 @@ Translang busca resolver esse problema automatizando a criação de flash cards.
 Experimente no Link https://www.translang.live
 
 Dívido em 3 partes:
-##### Módulo que realiza o processo de automação
+-  Módulo que realiza o processo de automação
 https://github.com/danielpassy/Anki-CardOTron
-##### Back End 
+- Back End 
 https://github.com/danielpassy/Translang-Deck
 Construído em Django e hosteado na AWS EC2
-##### Front end 
+- Front end 
 https://github.com/danielpassy/Translang-deck-FrontEnd
 Construído em React
 
 
 ## Ame - Pequenos Negócios
-Projeto desenvolvido para o Hackathon Shawee, desafio AME Pequenos Negócios.
-Criação de um marketplace para comerciantes locais sob o formato de uma rede social.
-Conquistou o #4 lugar na competição
+Projeto desenvolvido para o Hackathon Shawee, desafio AME Pequenos Negócios. <br>
+Criação de um marketplace para comerciantes locais sob o formato de uma rede social.<br>
+Conquistou o #4 lugar na competição<br>
 https://github.com/danielpassy/Hackathon_B2W-BackEnd
 
 
 ## Daniel Passy, meu site pessoal.
-Um pequeno site pessoal hospedado na AWS EC2 criado em react
+Um pequeno site pessoal hospedado na AWS EC2 criado em react <br>
 www.danielpassy.com
 
 
 ## Hebrew Song similarity
-Projeto de raspagem e comparação léxica de canções em hebraico.
-O projeto raspava letras de música em hebraico, realiza comparação sintática entre diferentes letras buscando identificar músicas com vocabulário similar.
-O estudante, desta forma, poderia ouvir músicas cujo vocabulário ele já possua, aprendendo algumas poucas palavras por vez através do contexto.
-https://github.com/danielpassy/Hebrew-Song-SImilarity
-baseado nas bibliotecas NLP [YAP](https://github.com/onlplab/yap) e em [Scrappy](https://github.com/scrapy/scrapy)
-Projeto inacabado.
-
+Projeto de raspagem e comparação léxica de canções em hebraico.<br>
+O projeto raspava letras de música em hebraico, realiza comparação sintática entre diferentes letras buscando identificar músicas com vocabulário similar.<br>
+O estudante, desta forma, poderia ouvir músicas cujo vocabulário ele já possua, aprendendo algumas poucas palavras por vez através do contexto.<br
+https://github.com/danielpassy/Hebrew-Song-SImilarity<br>
+baseado nas bibliotecas NLP [YAP](https://github.com/onlplab/yap) e em [Scrappy](https://github.com/scrapy/scrapy)<br>
+Projeto inacabado.<br>
+<br>
 ## Pinball
-Aquele primeiro projeto, onde tudo ainda é bem mal feito.
-Um pinball que permite você salvar e carregar jogos salvos
-https://github.com/danielpassy/pinball
+Aquele primeiro projeto, onde tudo ainda é bem mal feito.<br>
+Um pinball que permite você salvar e carregar jogos salvos<br>
+https://github.com/danielpassy/pinball<br>
 
 
 # Conecte-se comigo:
