@@ -10,7 +10,7 @@
 
 ## Descubra meus projetos
 
-### Translang Deck
+### - Translang Deck
 Hebraico, sendo uma língua de poucos falantes, não possui muitos recursos para estuda-la. <br>
 Translang busca resolver esse problema automatizando a criação de flash cards.<br>
 Experimente no Link https://www.translang.live
