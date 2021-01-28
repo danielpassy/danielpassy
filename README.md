@@ -39,14 +39,12 @@ www.danielpassy.com
 
 ## - Hebrew Song similarity
 Projeto de raspagem e comparação léxica de canções em hebraico.<br>
-O projeto raspava letras de música em hebraico, realiza comparação sintática entre diferentes letras buscando identificar músicas com vocabulário similar.<br>
-O estudante, desta forma, poderia ouvir músicas cujo vocabulário ele já possua, aprendendo algumas poucas palavras por vez através do contexto.<br>
 https://github.com/danielpassy/Hebrew-Song-SImilarity<br>
 **Projeto inacabado.**<br>
 
 
 ## - Pinball
-Aquele primeiro projeto, onde tudo ainda é bem mal feito.<br>
+Primeiro projeto, onde tudo ainda é bem mal feito.<br>
 Um pinball que permite você salvar e carregar jogos salvos<br>
 https://github.com/danielpassy/pinball<br>
 
