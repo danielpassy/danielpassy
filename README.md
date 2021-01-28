@@ -24,21 +24,21 @@ Construído em Django e hosteado na AWS EC2<br>
 - Front end <br>
 https://github.com/danielpassy/Translang-deck-FrontEnd<br>
 Construído em React<br>
-
 <br>
-## Ame - Pequenos Negócios
+
+## - Ame - Pequenos Negócios
 Projeto desenvolvido para o Hackathon Shawee, desafio AME Pequenos Negócios. <br>
 Criação de um marketplace para comerciantes locais sob o formato de uma rede social.<br>
 Conquistou o #4 lugar na competição<br>
 https://github.com/danielpassy/Hackathon_B2W-BackEnd
 
 
-## Daniel Passy, meu site pessoal.
+## - Daniel Passy, meu site pessoal.
 Um pequeno site pessoal hospedado na AWS EC2 criado em react <br>
 www.danielpassy.com
 
 
-## Hebrew Song similarity
+## - Hebrew Song similarity
 Projeto de raspagem e comparação léxica de canções em hebraico.<br>
 O projeto raspava letras de música em hebraico, realiza comparação sintática entre diferentes letras buscando identificar músicas com vocabulário similar.<br>
 O estudante, desta forma, poderia ouvir músicas cujo vocabulário ele já possua, aprendendo algumas poucas palavras por vez através do contexto.<br>
@@ -46,7 +46,7 @@ https://github.com/danielpassy/Hebrew-Song-SImilarity
 baseado nas bibliotecas NLP [YAP](https://github.com/onlplab/yap) e em [Scrappy](https://github.com/scrapy/scrapy)<br>
 **Projeto inacabado.**<br>
 <br>
-## Pinball
+## - Pinball
 Aquele primeiro projeto, onde tudo ainda é bem mal feito.<br>
 Um pinball que permite você salvar e carregar jogos salvos<br>
 https://github.com/danielpassy/pinball<br>
