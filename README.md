@@ -16,18 +16,18 @@ Translang busca resolver esse problema automatizando a criação de flash cards.
 Experimente no Link https://www.translang.live
 
 Dívido em 3 partes:
-#### Módulo que realiza o processo de automação
+##### Módulo que realiza o processo de automação
 - https://github.com/danielpassy/Anki-CardOTron
-#### Back End 
+##### Back End 
 Construído em Django e hosteado na AWS EC2
 https://github.com/danielpassy/Translang-Deck
-#### Front end 
+##### Front end 
 Construíido em React
 https://github.com/danielpassy/Translang-deck-FrontEnd
 
 
 
-### Conecte-se comigo:
+## Conecte-se comigo:
 
 [<img align="left" alt="Website pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
