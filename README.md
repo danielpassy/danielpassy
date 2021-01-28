@@ -24,7 +24,7 @@ Construído em Django e hosteado na AWS EC2<br>
 - Front end <br>
 https://github.com/danielpassy/Translang-deck-FrontEnd<br>
 Construído em React<br>
-<br>
+
 
 ## - Ame - Pequenos Negócios
 Projeto desenvolvido para o Hackathon Shawee, desafio AME Pequenos Negócios. <br>
@@ -45,7 +45,8 @@ O estudante, desta forma, poderia ouvir músicas cujo vocabulário ele já possu
 https://github.com/danielpassy/Hebrew-Song-SImilarity
 baseado nas bibliotecas NLP [YAP](https://github.com/onlplab/yap) e em [Scrappy](https://github.com/scrapy/scrapy)<br>
 **Projeto inacabado.**<br>
-<br>
+
+
 ## - Pinball
 Aquele primeiro projeto, onde tudo ainda é bem mal feito.<br>
 Um pinball que permite você salvar e carregar jogos salvos<br>
