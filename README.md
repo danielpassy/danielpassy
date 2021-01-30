@@ -4,7 +4,7 @@
 - 🎓 Estudante de Sistemas de Informação UFF
 - 💻 Ferramentas
     - JavaScript, Python, C/ C++
-    - React, PostgreSQL
+    - Django, React, PostgreSQL
     - Linux, AWS
 - 🥅 Buscando oportunidade como desenvolvedor WEB
 
