@@ -42,6 +42,9 @@ Projeto de raspagem e comparação léxica de canções em hebraico.<br>
 https://github.com/danielpassy/Hebrew-Song-SImilarity<br>
 **Projeto inacabado.**<br>
 
+## - Igor Lins cerâmicas
+Portfólio + Ecommerce feito para ceramista.<br>
+https://www.igorlins.com<br>
 
 ## - Pinball
 Primeiro projeto, onde tudo ainda é bem mal feito.<br>
