@@ -36,6 +36,9 @@ https://github.com/danielpassy/Hackathon_B2W-BackEnd
 Um pequeno site pessoal hospedado na AWS EC2 criado em react <br>
 www.danielpassy.com
 
+## - Social Network
+Demonstração de integração front/back usando Django React.<br>
+https://calm-journey-62982.herokuapp.com/<br>
 
 ## - Hebrew Song similarity
 Projeto de raspagem e comparação léxica de canções em hebraico.<br>
@@ -45,10 +48,6 @@ https://github.com/danielpassy/Hebrew-Song-SImilarity<br>
 ## - Igor Lins cerâmicas
 Portfólio + Ecommerce feito para ceramista.<br>
 https://www.igorlins.com<br>
-
-## - Social Network
-Demonstração de integração front/back usando Django React.<br>
-https://calm-journey-62982.herokuapp.com/<br>
 
 
 ## - Pinball
