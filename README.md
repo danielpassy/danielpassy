@@ -46,6 +46,11 @@ https://github.com/danielpassy/Hebrew-Song-SImilarity<br>
 Portfólio + Ecommerce feito para ceramista.<br>
 https://www.igorlins.com<br>
 
+## - Social Network
+Demonstração de integração front/back usando Django React.<br>
+https://calm-journey-62982.herokuapp.com/<br>
+
+
 ## - Pinball
 Primeiro projeto, onde tudo ainda é bem mal feito.<br>
 Um pinball que permite você salvar e carregar jogos salvos<br>
