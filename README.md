@@ -37,7 +37,7 @@ Um pequeno site pessoal hospedado na AWS EC2 criado em react <br>
 www.danielpassy.com
 
 ## - Social Network
-Demonstração de integração front/back usando Django React.<br>
+O famoso CRUD, com um frontend para ilustrar a utilização e deployed no Heroku.<br>
 https://calm-journey-62982.herokuapp.com/<br>
 
 ## - Hebrew Song similarity
