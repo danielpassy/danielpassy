@@ -12,7 +12,8 @@
 
 ## - Translang Deck
 Automatiza a criação de ferramentos de estudo, flash cards, de Hebraico <br>
-Experimente no Link https://www.translang.live
+Experimente no link https://www.translang.live<br>
+שלום - copie e cole esta palavra pra experimentar
 
 Dívido em 3 partes:<br>
 -  **Módulo que realiza o processo de automação**<br>
