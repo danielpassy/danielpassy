@@ -1,7 +1,7 @@
 Exploring new technologies.
 Currently, open to work.
 
-# Conecte-se comigo:
+# Contact me:
 
 [<img align="left" alt="Website pessoal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,6 +18,5 @@ Currently, open to work.
 
 <br />
 
-## Linguagens e ferramentas:
+## Misc:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpassy&show_icons=true&layout=compact" />
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=danielpassy&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&hide=issues,contribs" />
